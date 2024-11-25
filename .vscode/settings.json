@@ -1,0 +1,25 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "*.ejs": "html",
+        "socket.h": "c",
+        "struct_osockaddr.h": "c",
+        "stdio.h": "c",
+        "errno.h": "c",
+        "error.h": "c",
+        "types.h": "c",
+        "sockaddr.h": "c",
+        "ctype.h": "c",
+        "inet.h": "c",
+        "stdlib.h": "c",
+        "pthread.h": "c",
+        "typeinfo": "cpp",
+        "fcntl.h": "c",
+        "atomic": "c",
+        "*.tcc": "c",
+        "sstream": "c",
+        "regex": "c",
+        "fcntl2.h": "c",
+        "limits": "c"
+    }
+}
